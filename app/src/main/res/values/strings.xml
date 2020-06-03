@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mirror Audio</string>
+    <string name="textLabelIP">Escriba la IP:</string>
+    <string name="textHintAddress">192.168.0.x</string>
+    <string name="textButtonOn">Conectado</string>
+    <string name="textButtonOff">Desconectado</string>
+    <string name="textButtonPlay">Play</string>
+    <string name="textButtonStop">Stop</string>
+</resources>
+
